@@ -1,3 +1,0 @@
-- 👋 Hi, My name is Egor. I'm from Russia
-- 👀 I’m interested in programming (C# and python) and arduino. 
-- 🌱 I’m currently learning python.
